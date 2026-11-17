@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Benin",ADO TV (720p)
-https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWxjtuJ.png" group-title="Benin",Benin TV Junior (720p)
-https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" group-title="Benin",Le Nouveau Manager TV
-https://lnmlive.com/live/lnmtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="Benin",TVC Benin (720p)
-https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

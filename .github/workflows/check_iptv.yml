@@ -2,8 +2,11 @@ name: Check IPTV
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Запуск каждый день в полночь
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   check:
@@ -11,10 +14,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
@@ -26,17 +29,14 @@ jobs:
     - name: Run IPTV checker
       run: python -m iptv_checker
 
-    - name: Configure git
+    - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-    - name: Commit changes
-      run: |
-        git add output/*
-        git commit -m "Update available channels"
-
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git add -A output
+        if git diff --cached --quiet; then
+          echo "No changes"
+        else
+          git commit -m "Update available channels"
+          git push
+        fi

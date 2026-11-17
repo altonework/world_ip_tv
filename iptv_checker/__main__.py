@@ -12,7 +12,7 @@ async def main():
     semaphore = asyncio.Semaphore(200)
 
     tasks = []
-    for country_name, playlist_url in playlist_urls.items():
+    for country_name, playlist_url in playlist_urls:
         checker = IPTVChecker(country_name, playlist_url, semaphore)
         tasks.append(checker.run())
 

@@ -116,6 +116,6 @@ class IPTVChecker:
         filename = os.path.basename(self.playlist_url)
         output_path = os.path.join(output_dir, filename)
 
-        with open(output_path, 'w') as f:
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write(new_playlist_content)
         logger.info(f"New playlist with available channels has been created at {output_path}.")
