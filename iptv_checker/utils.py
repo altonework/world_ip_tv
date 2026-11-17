@@ -55,14 +55,15 @@ async def download_playlist(url):
             async with session.get(url, timeout=10) as response:
                 if response.status == 200:
                     return await response.text()
-                else:
-                    logger.error(f"Failed to download playlist from {url}: HTTP {response.status}")
+                logger.error(f"Failed to download playlist from {url}: HTTP {response.status}")
+                if response.status in (404, 410):
+                    return ""  # source is gone: treat as an empty playlist
         except aiohttp.ClientError as e:
             logger.error(f"Client error while downloading playlist from {url}: {e}")
         except asyncio.TimeoutError:
             logger.error(f"Timeout while downloading playlist from {url}")
 
-    return ""
+    return None  # temporary failure
 
 
 def create_index_m3u():

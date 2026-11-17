@@ -19,23 +19,19 @@ Delaware: https://iptv-org.github.io/iptv/subdivisions/us-de.m3u
 District of Columbia: https://iptv-org.github.io/iptv/subdivisions/us-dc.m3u
 Florida: https://iptv-org.github.io/iptv/subdivisions/us-fl.m3u
 Georgia: https://iptv-org.github.io/iptv/subdivisions/us-ga.m3u
-Guam: https://iptv-org.github.io/iptv/subdivisions/us-gu.m3u
 Hawaii: https://iptv-org.github.io/iptv/subdivisions/us-hi.m3u
-Idaho: https://iptv-org.github.io/iptv/subdivisions/us-id.m3u
 Illinois: https://iptv-org.github.io/iptv/subdivisions/us-il.m3u
 Indiana: https://iptv-org.github.io/iptv/subdivisions/us-in.m3u
 Iowa: https://iptv-org.github.io/iptv/subdivisions/us-ia.m3u
 Kansas: https://iptv-org.github.io/iptv/subdivisions/us-ks.m3u
 Kentucky: https://iptv-org.github.io/iptv/subdivisions/us-ky.m3u
 Louisiana: https://iptv-org.github.io/iptv/subdivisions/us-la.m3u
-Maine: https://iptv-org.github.io/iptv/subdivisions/us-me.m3u
 Maryland: https://iptv-org.github.io/iptv/subdivisions/us-md.m3u
 Massachusetts: https://iptv-org.github.io/iptv/subdivisions/us-ma.m3u
 Michigan: https://iptv-org.github.io/iptv/subdivisions/us-mi.m3u
 Minnesota: https://iptv-org.github.io/iptv/subdivisions/us-mn.m3u
 Mississippi: https://iptv-org.github.io/iptv/subdivisions/us-ms.m3u
 Missouri: https://iptv-org.github.io/iptv/subdivisions/us-mo.m3u
-Montana: https://iptv-org.github.io/iptv/subdivisions/us-mt.m3u
 Nebraska: https://iptv-org.github.io/iptv/subdivisions/us-ne.m3u
 Nevada: https://iptv-org.github.io/iptv/subdivisions/us-nv.m3u
 New Hampshire: https://iptv-org.github.io/iptv/subdivisions/us-nh.m3u

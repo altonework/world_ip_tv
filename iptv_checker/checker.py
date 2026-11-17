@@ -101,20 +101,30 @@ class IPTVChecker:
     async def run(self):
         logger.info(f"Starting to check playlist from {self.playlist_url}")
         playlist_content = await download_playlist(self.playlist_url)
-        await self.check_channels(playlist_content)
 
-        if not self.available_channels:
-            logger.info("No available channels, skipping save.")
-            return
-
-        new_playlist_content = self.create_new_playlist()
-
-        # Определение пути для сохранения файла на уровень выше
         current_dir = os.path.dirname(os.path.abspath(__file__))
         output_dir = os.path.join(current_dir, '..', 'output')
         os.makedirs(output_dir, exist_ok=True)
         filename = os.path.basename(self.playlist_url)
         output_path = os.path.join(output_dir, filename)
+
+        if playlist_content is None:
+            # Download failed (timeout/network/5xx): keep the previous file as-is.
+            logger.info("Playlist download failed, keeping previous output.")
+            return
+
+        await self.check_channels(playlist_content)
+
+        if not self.available_channels:
+            # Source is gone or has no working channels: drop the stale file.
+            if os.path.exists(output_path):
+                os.remove(output_path)
+                logger.info(f"No available channels, removed stale {output_path}.")
+            else:
+                logger.info("No available channels, skipping save.")
+            return
+
+        new_playlist_content = self.create_new_playlist()
 
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(new_playlist_content)
