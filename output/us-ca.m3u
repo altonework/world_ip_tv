@@ -3,8 +3,6 @@
 https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="United States",ABC KGTV (720p)
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sYtDaQ1.png" group-title="United States",Access Tuolumne (720p)
-https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="United States",AMP 1 (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="United States",AMP 2 (720p)
@@ -13,12 +11,8 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Gqc5f2.png" group-title="United States",BHTV35 (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="United States",BPTV (360p)
-https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="United States",Cerritos TV3 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiqaiUe.png" group-title="United States",City of Fairfield Channel 26 (720p) [Geo-blocked]
-https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G6h8efT.png" group-title="United States",City TV Carlsbad (720p)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0vaDea.png" group-title="United States",City TV Channel 3/41 (360p)
@@ -29,14 +23,6 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfNV6I7.png" group-title="United States",CityTV San Diego (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68n7ifH.png" group-title="United States",CityTV Whittier (720p)
-https://whittier.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PYhdQy9.png" group-title="United States",CMAC 1 (720p)
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="United States",CMAC 2 (720p)
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="United States",CMAC 3 (720p)
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="United States",CMAP Channel 17 (720p)
 https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="United States",CMAP Channel 18 (720p)
@@ -47,18 +33,6 @@ https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/73LKwAK.png" group-title="United States",CMTV (720p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vh2a3H.png" group-title="United States",Concord TV (720p)
-https://concordca.cablecast.tv/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3oYkwPc.png" group-title="United States",Contra Costa TV [Geo-blocked]
-https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lwzio0H.png" group-title="United States",CreaTV Channel 15 (720p)
-https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYuv0RF.png" group-title="United States",CreaTV Channel 27 (720p)
-https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="United States",CreaTV Channel 28 (720p)
-https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O5GXlmE.png" group-title="United States",CreaTV Channel 30 (720p)
-https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOO2SaH.png" group-title="United States",Cruz TV (1080p)
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="United States",CTV (United States) (480p)
@@ -67,20 +41,12 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="United States",Fox (United States) KTTV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akbtQ33.png" group-title="United States",Glendale TV (720p) [Geo-blocked]
-https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="United States",HBTV (720p)
-https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="United States",Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="United States",KBSV 23.1 (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAypRkk.png" group-title="United States",KCAT (1080p)
-https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJcuBCF.png" group-title="United States",Kern County TV (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQHYm3V.png" group-title="United States",KFON TV (720p) [Geo-blocked]
-https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="United States",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="United States",KIIO-LD 10.4 (480p)
@@ -89,8 +55,6 @@ https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="United States",KOCT Channel 19 (720p)
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxTzUEq.png" group-title="United States",LA36 (1080p)
-https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJhrvtL.png" group-title="United States",Majestad TV (480p) [Not 24/7]
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="United States",Midpen Media Center Channel 26 (720p)
@@ -129,8 +93,6 @@ https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="United States",Scientology Network KSCN-TV (1080p)
 https://stream-losangeles.scientology.org/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="United States",SCVTV (1080p)
-https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOk5m5B.png" group-title="United States",SFGovTV2 (720p)
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="United States",SFGovTV (720p)
@@ -151,8 +113,6 @@ https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="United States",Telemundo KNSD (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/El16S4C.png" group-title="United States",Temecula TV (1080p)
-https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldyanxN.png" group-title="United States",The City of Marina (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/400m3ow.png" group-title="United States",The Monterey Channel (720p)
@@ -169,3 +129,5 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="United States",YouDotGov (1080p)
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IXC8PXf.png" group-title="United States",Youtoo America KVVB-LD (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
