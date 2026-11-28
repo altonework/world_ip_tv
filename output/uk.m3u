@@ -93,8 +93,6 @@ https://cdn.pishow.tv/ott/live/1391/master.m3u8
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="United Kingdom",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="United Kingdom",Hala London (1080p)
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="United Kingdom",Hell's Kitchen (1080p)
 https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="United Kingdom",Hobby Maker (720p)
@@ -193,7 +191,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="United Kingdom",So... Real UK (720p)
 https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="United Kingdom",Spark TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="United Kingdom",Spark TV (United Kingdom) (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="United Kingdom",Star Bharat (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8

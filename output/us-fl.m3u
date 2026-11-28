@@ -43,8 +43,6 @@ https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CM91sME.png" group-title="United States",Pasco TV (480p)
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="United States",PBC TV Channel 20 (720p)
-https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="United States",PBS WEDQ (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8c8isLj.png" group-title="United States",PBS WJXT (720p)
